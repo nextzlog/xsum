@@ -1,0 +1,4 @@
+<html>
+<head>
+<a href="#whylowscore">得点が低くなっていませんか?</a>
+<hr>

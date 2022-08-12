@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="xsum" default="build" basedir=".">
+	<target name="compile">
+		<mkdir dir="bin"/>
+		<javac destdir="bin" source="1.8">
+			<src path="src"/>
+	 		<classpath>
+				<pathelement path="lib/xlog.jar"/>
+			</classpath>
+		</javac>
+	</target>
+
+	<target name="makejar" depends="compile">
+		<jar jarfile="xsum.jar" basedir="bin">
+			<manifest>
+				<attribute name="Main-Class" value="zlo.allja1.Processor"/>
+				<attribute name="Class-Path" value="lib/xlog.jar"/>
+			</manifest>
+			<fileset dir="src"/>
+		</jar>
+	</target>
+
+	<target name="build" depends="makejar"/>
+</project>

@@ -1,0 +1,12 @@
+copyright(c) 2013 by University of Tokyo Amateur Radio Club
+
+How to use this GUI console
+
+1. Press 'Open', select the directory containing *.sum and *.log.
+2. Press 'HTML', select the html file to output brief result table.
+3. Press 'Save', select the CSV file to output detailed result table.
+
+Above steps are complete, then you can press 'Calc' button.
+
+4. Press 'Calc', start to summarize results of all participants.
+5. Press 'Stop', if you want to cancell processing.

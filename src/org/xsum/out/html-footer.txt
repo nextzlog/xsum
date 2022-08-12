@@ -1,0 +1,8 @@
+<a name="whylowscore"></a>
+<p>点数が想定より低い場合は、提出した交信記録をもう一度ご確認ください!</p><br>
+1. 部門が間違っていませんか?<br>
+2. 時間外に交信していませんか?<br>
+3. 規約通りの相手と交信していますか?<br>
+<p>ご意見・ご質問・書類訂正は、<a href="mailto:allja1@ja1zlo.u-tokyo.org">allja1@ja1zlo.u-tokyo.org</a>までどうぞ!</p>
+</body>
+</html>
